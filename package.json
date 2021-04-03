@@ -1,0 +1,13 @@
+{
+  "name": "aurelia-snowpack-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "@aurelia/plugin-conventions": "latest"
+  }
+}
